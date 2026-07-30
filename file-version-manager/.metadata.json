@@ -1,0 +1,19 @@
+{
+  "name": "file-version-manager",
+  "display_name": "文件版本管理器",
+  "description": "在修改文件时自动创建版本副本，保留历史版本",
+  "description_zh": "在修改文件时自动创建版本副本，保留历史版本",
+  "aliases": ["版本管理", "文件备份", "历史版本", "file backup", "version control"],
+  "author": "user",
+  "version": "1.0.0",
+  "license": "MIT",
+  "categories": ["productivity", "file-management"],
+  "tags": ["version-control", "backup", "file-management", "history"],
+  "requirements": [],
+  "homepage": "",
+  "repository": "",
+  "enabled": true,
+  "auto_invoke": false,
+  "context_window": 8192,
+  "skills": []
+}
